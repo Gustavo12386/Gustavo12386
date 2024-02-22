@@ -27,6 +27,6 @@
     <img width="30" src="gmail.svg">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-viana-95206520a/">
-    <img width="40" src="linkedin.svg">
+    <img width="32" src="linkedin_logo.svg">
   </a>
 </div>
