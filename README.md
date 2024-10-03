@@ -30,5 +30,5 @@
   <a href="https://www.linkedin.com/in/gustavo-viana-95206520a/">    
     <img width="32" src="linkedin_logo.svg"> 
   </a>
-  <span align="center">linkedin: Gustavo Viana</span>
+  <span align="center">linkedin: Gustavo Calderaro</span>
 </div>
