@@ -1,24 +1,25 @@
 ## Gustavo Calderaro
 
 <div>
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gustavo12386&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> -->
-  <img align="right" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo12386&layout=compact&langs_count=16&theme=great-gatsby"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Gustavo12386&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
+  <img align="right" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo12386&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 <br>
 
 <div align="center">
-  <div style="display: inline-block"><br>
+  <div style="display: inline-block">
         <img align="left" height="250" alt="coding-time" src="code.jpeg">
     <h1 align="center">Melhores Tecnologias</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />   
-    <img align="center" height="30" width="40" alt="django-icon" src="https://raw.githubusercontent.com/Nekmo/cookiecutter-django-backend/master/images/logo.png">
-    <img align="center" height="30" width="40" alt="laravel-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" /> 
+    <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png">
+    <img align="center" height="30" width="40" alt="wordpress-icon" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png">
   </div>
 
   <h1 align="center">Redes Sociais</h1>
