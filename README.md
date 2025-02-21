@@ -16,8 +16,7 @@
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />   
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" /> 
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />  
     <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png">
     <img align="center" height="30" width="40" alt="wordpress-icon" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png">
   </div>
