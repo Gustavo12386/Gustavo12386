@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Gustavo Calderaro
 
-Desenvolvedor Full-Stack(front-end e back-end) e Desenvolvedor WEB com 3 anos de experiência em desenvolvimento de ponta a ponta, especializado em arquitetura de microsserviços, soluções web integradas e APIs de alta disponibilidade.
+Desenvolvedor Full-Stack (front-end e back-end) e Desenvolvedor WEB com 3 anos de experiência em desenvolvimento de APIs REST e interfaces responsivas
 
 ## 💻 Tecnologias que mais utilizo  
 
