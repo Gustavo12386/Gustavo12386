@@ -1,12 +1,5 @@
 ## Gustavo Calderaro
 
-<div>
- <img src="https://github-readme-stats.vercel.app/api?username=Gustavo12386&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
-  <img align="right" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo12386&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-
-<br>
-
 <div align="center">
   <div style="display: inline-block">
         <img align="left" height="250" alt="coding-time" src="code.jpeg">
