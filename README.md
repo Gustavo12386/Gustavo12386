@@ -1,25 +1,24 @@
-## Gustavo Calderaro
+# 👋 Olá, me chamo Gustavo Calderaro
 
-<div align="center">
-  <div style="display: inline-block">
-        <img align="left" height="250" alt="coding-time" src="code.jpeg">
-    <h1 align="center">Melhores Tecnologias</h1> 
-    <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />  
-    <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png">
-    <img align="center" height="30" width="40" alt="wordpress-icon" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png">
-  </div>
+Desenvolvedor Full-Stack(front-end e back-end) e Desenvolvedor WEB com 3 anos de experiência em desenvolvimento de ponta a ponta, especializado em arquitetura de microsserviços, soluções web integradas e APIs de alta disponibilidade.
 
-  <h1 align="center">Redes Sociais</h1>
-  <a href="mailto: calderarogustavo@gmail.com">
-    <img width="30" src="gmail.svg"> 
-  </a>
-  <span>gmail: calderarogustavo@gmail.com</span>
-  
+## 💻 Tecnologias que mais utilizo  
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/SpringBoot-E34F26?style=for-the-badge&logo=springboot&logoColor=green" alt="SpringBoot" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</div>  
+
+## 🌐 Redes Sociais
+<div>
   <a href="https://www.linkedin.com/in/gustavo-viana-95206520a/">    
     <img width="32" src="linkedin_logo.svg"> 
-  </a>
-  <span align="center">linkedin: Gustavo Calderaro</span>
+  </a> 
+  <span style="margin-left: 20%;" align="center">&nbsp Gustavo Calderaro</span>
 </div>
+
+
